@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **programming, web development, or cybersecurity.**
 
 - 📫 How to reach me 
 
