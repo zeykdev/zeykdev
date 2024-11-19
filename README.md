@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer with a focus on web development and cybersecurity. I am constantly improving my skills and building projects to contribute to the tech community. In my free time, I create content to share knowledge and insights. Feel free to explore my journey and connect with me!</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/go7FqBOYXJgAAAAC/chainsaw-man-csm.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
 
