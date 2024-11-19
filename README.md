@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
+<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.pg"> </div>
 <h3 align="center">A passionate software developer with a focus on **web development** and **cybersecurity**. I am constantly improving my skills and building projects to contribute to the tech community. In my free time, I create content to share knowledge and insights. Feel free to explore my journey and connect with me!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
