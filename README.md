@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
 <div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/38bdf41e62f9f5cc91e387a27159597a1071898a/zeykdevbanner.jpg"> </div>
-<h3 align="center">A passionate software developer with a focus on web development and cybersecurity. I am constantly improving my skills and building projects to contribute to the tech community. In my free time, I create content to share knowledge and insights. Feel free to explore my journey and connect with me!</h3>
+<h3 align="center">An aspiring software developer with a focus on web development and cybersecurity. I am constantly improving my skills and building projects to contribute to the tech community. In my free time, I create content to share knowledge and insights. Feel free to explore my journey and connect with me!</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/go7FqBOYXJgAAAAC/chainsaw-man-csm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
 
-- 💬 Ask me about **programming, web development, or cybersecurity.**
+- 💬 Still learning about **programming, web development, or cybersecurity.**
 
 - 📫 How to reach me 
 
