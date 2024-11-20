@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeykdev&show_icons=true&locale=en" alt="jaiswaladi246" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zeykdev&theme=youtube-dark" alt="GitHub Streak") /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zeykdev&show_icons=true&locale=en" alt="zeykdev" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zeykdev&limit=5&theme=flat&combine_all_yearly_contributions=true)
