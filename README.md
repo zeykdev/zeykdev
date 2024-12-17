@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
-<div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/main/zeykdev_bannerpl.jpg"> </div>
+<div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/main/zeykdev_bannerpluns.jpg"> </div>
 <h3 align="center">An aspiring software developer with a focus on web development and cybersecurity. I am constantly improving my skills and building projects to contribute to the tech community. In my free time, I create content to share knowledge and insights. Feel free to explore my journey and connect with me!</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/rkPNIZSk1toAAAAd/purple-aesthetic.gif">
 
