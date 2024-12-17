@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
 <div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/38bdf41e62f9f5cc91e387a27159597a1071898a/zeykdevbanner.jpg"> </div>
 <h3 align="center">An aspiring software developer with a focus on web development and cybersecurity. I am constantly improving my skills and building projects to contribute to the tech community. In my free time, I create content to share knowledge and insights. Feel free to explore my journey and connect with me!</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/go7FqBOYXJgAAAAC/chainsaw-man-csm.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/purple-aesthetic-sky-gif-19354559">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
