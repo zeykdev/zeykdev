@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeykdev&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="zeykdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeykdev&show_icons=true&locale=en" alt="zeykdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeykdev&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" alt="zeykdev" /></p>
 
 
 ### 🔝 Top Contributed Repo
