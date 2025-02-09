@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
 <div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/main/zeykdev_bannerpluns.jpg"> </div>
 <h3 align="center">"Obsessed with all things tech? 🤓 So am I! I'm zeykdev, an aspiring front-end dev and software eng from the Philippines 🇵🇭.</h3>
-<img align="right" alt="Coding" <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7SN7VRxzzcby9nyKJV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dance-memphis-phonk-7SN7VRxzzcby9nyKJV">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7SN7VRxzzcby9nyKJV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dance-memphis-phonk-7SN7VRxzzcby9nyKJV">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
