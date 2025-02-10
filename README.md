@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
 
-- 💬 Still learning about **programming, web development, or cybersecurity.**
+- 💬 Still learning about **back-end development & cybersecurity.**
 
 - 📫 How to reach me 
 
