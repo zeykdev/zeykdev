@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
 <div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/main/zeykdev_bannerpluns.jpg"> </div>
 <h3 align="center">"Obsessed with all things tech? 🤓 So am I! I'm zeykdev, an aspiring front-end dev and software eng from the Philippines 🇵🇭.</h3>
-<img align="right" alt="Gojo" width="400" src="https://media1.tenor.com/m/Kl24XBlpaOIAAAAd/gojo-edit.gif">
+<img align="right" alt="Gojo" width="350" src="https://media1.tenor.com/m/3PelGb3YIRYAAAAd/anime-tokyo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
