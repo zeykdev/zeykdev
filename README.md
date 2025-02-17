@@ -31,5 +31,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zeykdev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-[![wakatime](https://wakatime.com/badge/github/zeykdev/zeykdev.svg&theme=dracula)](https://wakatime.com/badge/github/zeykdev/zeykdev)
