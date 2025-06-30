@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
 
-- 📫 Work with me
+- 🤝 Work with me
 
 
 <h3 align="left">Connect with me:</h3>
