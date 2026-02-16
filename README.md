@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Zeyk</h1>
 <div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/main/zeykdev_bannerpluns.jpg"> </div>
-<h3 align="center">🇵🇭 An aspiring software engineer with a heart for front-end dev and data analysis. Polishing skills in OSINT, cybersecurity, and networking — not to impress, but to grow, adapt, and open doors to more opportunities. Still learning, always building.</h3>
+<h3 align="center">🇵🇭 An aspiring software engineer with a heart for front-end dev and data analysis. Polishing skills in OSINT, cybersecurity, and networking. Still learning, always building.</h3>
 <img align="right" alt="Gojo" width="350" src="https://media1.tenor.com/m/3PelGb3YIRYAAAAd/anime-tokyo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
