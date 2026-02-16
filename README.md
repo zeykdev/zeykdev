@@ -28,4 +28,4 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeykdev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/zeykdev/contributed.svg?max_repos=3)
