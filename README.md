@@ -5,9 +5,9 @@
 <img align="right" alt="Gojo" width="350" src="https://media1.tenor.com/m/3PelGb3YIRYAAAAd/anime-tokyo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeykdev&label=Profile%20views&color=red&style=flat" alt="zeykdev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
+-  All of my projects are available at [https://github.com/zeykdev](https://github.com/zeykdev)
 
-- 🤝 Work with me
+-  Work with me
 
 
 <h3 align="left">Connect with me:</h3>
