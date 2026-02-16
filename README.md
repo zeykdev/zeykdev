@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Zeyk</h1>
+<h1 align="center">Hi, I'm Zeyk</h1>
 <div align="center"> <img src="https://github.com/zeykdev/zeykdev/blob/main/zeykdev_bannerpluns.jpg"> </div>
 <h3 align="center">🇵🇭 Still learning, always building.</h3>
 <img align="right" alt="Gojo" width="350" src="https://media1.tenor.com/m/3PelGb3YIRYAAAAd/anime-tokyo.gif">
